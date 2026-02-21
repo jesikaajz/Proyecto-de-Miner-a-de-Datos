@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 🌍 Clasificación de Severidad en Incidentes Migratorios
 
 ## 📌 Descripción del Proyecto
@@ -169,4 +168,3 @@ PRACTICA_JESIKA_JIMENEZ_GERARD_CHAPARRO.ipynb
 
 Proyecto completo con validación estadística y comparación robusta de modelos.
 
-EOF
